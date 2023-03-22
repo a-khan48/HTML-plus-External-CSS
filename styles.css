@@ -1,0 +1,73 @@
+body{
+    background-color: white;
+    margin: 0%;
+    padding: 0%;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-content: space-evenly;
+    background-color: black;
+    height: 150px;
+    margin: auto;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0;
+}
+
+.listone{
+    display: inline;
+    float: left;
+    padding: 8px;
+    margin-top: 45px;
+    text-decoration-style: none;
+    text-decoration-color: white;
+}
+
+.logo{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 75px;
+    color: white;
+    text-align: center;
+    margin-top: 25%;
+}
+
+.input{
+    height: 15px;
+    margin-top: 55px;
+}
+
+.search{
+    width: 35px;
+    height: 35px;
+    margin-top: 50px;
+}
+
+.listtwo{
+    margin-top: 45px;
+}
+
+.box{
+    background-color: green;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 150px;
+    height: 150px;
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.box2{
+    background-color: black;
+    position: absolute;
+    height: 150px;
+    width: 80%;
+    margin: 0%;
+    padding: 0%;
+}
